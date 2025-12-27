@@ -1,15 +1,8 @@
-这是一个为你准备的 `README.md` 文件。它是根据你提供的视频内容（Source -）以及 GitHub 文件结构（Source）整理而成的。
-
-你可以直接复制以下内容，保存为 `README.md` 并上传到你的 GitHub 仓库。
-
 ***
 
 ```markdown
 # Zero-Cost Secure Cloud Notes (零成本安全云笔记)
 
-这是一个基于 Cloudflare 全家桶（Workers, D1, Pages, AI）构建的零成本、端到端加密的私人云笔记应用。它支持多端同步（PWA）、阅后即焚分享以及 AI 智能总结功能。
-
-> **灵感来源**: 本项目基于 YouTube 频道“三十槽”的视频教程《零成本！用Cloudflare自建私人笔记App，黑客也打不开》构建。
 
 ## ✨ 主要功能
 
